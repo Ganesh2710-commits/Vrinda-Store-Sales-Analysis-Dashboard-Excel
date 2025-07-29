@@ -1,7 +1,7 @@
 # Vrinda Store Sales Analysis & Interactive Dashboard (Excel)
 
-![Dashboard Overview](screenshots/dashboard_overview.png)
 *A sneak peek at the interactive dashboard.*
+!(https://github.com/Ganesh2710-commits/Vrinda-Store-Sales-Analysis-Dashboard-Excel/blob/main/Excel%20project%20-%20Vrinda%20Store%20Analysis.xlsx)(screenshots/dashboard_overview.png) 
 
 ## Project Overview
 
