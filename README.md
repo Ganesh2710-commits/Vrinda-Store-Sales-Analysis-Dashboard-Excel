@@ -1,5 +1,7 @@
 # Vrinda Store Sales Analysis & Interactive Dashboard (Excel)
 
+https://i.postimg.cc/4NdGPHY3/Vrinda-Store-Analysis-Dashboard.png 
+
 ## Project Overview 
 
 This is an end-to-end data analytics project performed entirely in **Microsoft Excel**. The primary goal was to analyze the 2022 sales data from "Vrindavan Store" to gain insights into customer behavior, sales trends, and channel performance. The project culminates in an interactive dashboard designed to help the store understand its existing customer base and formulate data-driven strategies for growth in 2023.
