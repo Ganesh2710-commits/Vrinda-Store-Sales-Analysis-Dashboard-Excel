@@ -34,15 +34,13 @@ This project involved a comprehensive data analysis pipeline, including:
 ## Technologies Used
 
 * **Microsoft Excel:**
-    * Pivot Tables & Pivot Charts
-    * Formulas (`IF`, `TEXT`)
-    * Data Validation & Conditional Formatting
-    * Slicers
-    * Pivot Tables, Charts, and Grouping in Pivot Tables
-    * Formatting Tools
-    * Calculated Fields
-    * Data Cleaning
-    * Sorting Dashboard Design
+
+🧰 *Skills & Tools Used* 
+
+- Microsoft Excel: Pivot Tables, Pivot Charts, Slicers, IF(), TEXT(), grouping, and dashboard formatting
+- Data Analysis: Trend identification, segmentation by gender, age, and geography
+- Visualization: Line charts, bar graphs, pie charts, and interactive filters
+- Dashboard Design: Built an end-to-end visual report to showcase business KPIs
 
 
 ---
