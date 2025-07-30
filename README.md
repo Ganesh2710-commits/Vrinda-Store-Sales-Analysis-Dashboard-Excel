@@ -1,7 +1,5 @@
 # Vrinda Store Sales Analysis & Interactive Dashboard (Excel)
 
-https://i.postimg.cc/4NdGPHY3/Vrinda-Store-Analysis-Dashboard.png 
-
 ## Project Overview 
 
 This is an end-to-end data analytics project performed entirely in **Microsoft Excel**. The primary goal was to analyze the 2022 sales data from "Vrindavan Store" to gain insights into customer behavior, sales trends, and channel performance. The project culminates in an interactive dashboard designed to help the store understand its existing customer base and formulate data-driven strategies for growth in 2023.
@@ -49,7 +47,7 @@ This project involved a comprehensive data analysis pipeline, including:
 
 ## How to Use the Dashboard
 
-1.  **Download:** Clone this repository or download the `Vrinda_Store_Analysis_Dashboard.xlsx` file directly.
+1.  **Download:** Clone this repository or download the `Excel project - Vrinda Store Analysis.xlsx` file directly.
 2.  **Open:** Open the `.xlsx` file using Microsoft Excel (Excel 2016 or newer is recommended for full functionality of slicers and charts).
 3.  **Navigate:** Go to the sheet named **"Vrinda Store Annual Report 2022"**.
 4.  **Interact:** Utilize the slicers on the right side of the dashboard (**Month**, **Channel**, **Category**) to dynamically filter and explore the data based on your interests. All charts will update automatically.
@@ -87,11 +85,3 @@ Based on the comprehensive analysis, here are the core insights and actionable r
 * Explore more advanced visualization tools like Power BI or Tableau for richer dashboards.
 * Perform customer lifetime value (CLTV) analysis.
 
----
-
-## Contact
-
-Feel free to connect with me if you have any questions or feedback!
-
-* **LinkedIn:** https://www.linkedin.com/in/ganesh-pawar-40111636b/ 
-* **Email:** pawarg2710@gmail.com
