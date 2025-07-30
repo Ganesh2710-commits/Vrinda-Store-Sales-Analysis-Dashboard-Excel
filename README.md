@@ -6,6 +6,12 @@ This is an end-to-end data analytics project performed entirely in **Microsoft E
 
 ---
 
+## 📊 Excel Dashboard Preview
+
+![Excel Dashboard](https://github.com/Ganesh2710-commits/Vrinda-Store-Sales-Analysis-Dashboard-Excel/blob/84e08c0dd513067a55e37c2be2fed6f35cfb8ce9/Vrinda%20Store%20Analysis%20-%20Dashboard.png?raw=true)
+
+---
+
 ## Problem Statement & Objectives
 
 The "Vrindavan Store" required an annual sales report for 2022 to:
